@@ -1,2 +1,2 @@
 # IPl-project
-IPL organisation in c++
+IPL organiser in c++
